@@ -1,6 +1,6 @@
 ﻿using System.Windows.Forms;
 
-namespace Trero.Modules
+namespace Void.Modules
 {
     internal class Eject : Module
     {

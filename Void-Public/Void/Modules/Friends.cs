@@ -3,11 +3,11 @@
 using System;
 using System.Threading;
 using Microsoft.VisualBasic;
-using Trero.ClientBase;
+using Void.ClientBase;
 
 #endregion
 
-namespace Trero.Modules
+namespace Void.Modules
 {
     internal class Friends : Module
     {
@@ -19,21 +19,21 @@ namespace Trero.Modules
         {
             new Thread(() =>
             {
-                var treroAction = Interaction.InputBox("Please enter action (remove/add/list)", "Trero (Friends)")
+                var VoidAction = Interaction.InputBox("Please enter action (remove/add/list)", "Void (Friends)")
                     .ToLower();
 
-                if (treroAction == "list")
+                if (VoidAction == "list")
                 {
                     foreach (var str in Game.CustomDefines.friends)
                         Console.WriteLine(str);
                     return;
                 }
 
-                var username = Interaction.InputBox("Please enter player username", "Trero (Friends)").ToLower();
+                var username = Interaction.InputBox("Please enter player username", "Void (Friends)").ToLower();
 
-                if (treroAction != "remove")
+                if (VoidAction != "remove")
                 {
-                    if (treroAction != "add") return;
+                    if (VoidAction != "add") return;
                     Game.CustomDefines.friends.Add(username);
                     return;
                 }
