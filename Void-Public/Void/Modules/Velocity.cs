@@ -2,12 +2,12 @@
 
 using System.Threading;
 using System.Windows.Forms;
-using Trero.ClientBase;
-using Trero.ClientBase.UIBase;
+using Void.ClientBase;
+using Void.ClientBase.UIBase;
 
 #endregion
 
-namespace Trero.Modules
+namespace Void.Modules
 {
     internal class Velocity : Module
     {

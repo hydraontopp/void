@@ -1,11 +1,11 @@
 ﻿#region
 
 using System;
-using Trero.ClientBase;
+using Void.ClientBase;
 
 #endregion
 
-namespace Trero.Modules
+namespace Void.Modules
 {
     internal class TestModule : Module
     {

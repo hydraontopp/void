@@ -1,11 +1,11 @@
 ﻿#region
 
-using Trero.ClientBase;
-using Trero.Modules.vModuleExtra;
+using Void.ClientBase;
+using Void.Modules.vModuleExtra;
 
 #endregion
 
-namespace Trero.Modules
+namespace Void.Modules
 {
     internal class StreamMode : Module
     {
@@ -20,7 +20,7 @@ namespace Trero.Modules
         {
             base.OnEnable();
             storedusr = Game.username;
-            Game.username = "TreroExploiter";
+            Game.username = "VoidExploiter";
         }
 
         public override void OnDisable()

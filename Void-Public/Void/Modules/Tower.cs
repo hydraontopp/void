@@ -1,8 +1,8 @@
 ﻿using System;
-using Trero.ClientBase;
-using Trero.ClientBase.KeyBase;
+using Void.ClientBase;
+using Void.ClientBase.KeyBase;
 
-namespace Trero.Modules
+namespace Void.Modules
 {
     class Tower : Module
     {

@@ -3,11 +3,11 @@
 using System.Linq;
 using System.Threading;
 using Microsoft.VisualBasic;
-using Trero.ClientBase;
+using Void.ClientBase;
 
 #endregion
 
-namespace Trero.Modules
+namespace Void.Modules
 {
     internal class PlayerTP : Module
     {
@@ -19,7 +19,7 @@ namespace Trero.Modules
         {
             new Thread(() =>
             {
-                var username = Interaction.InputBox("Please enter player username", "Trero (PlayerTP)").ToLower();
+                var username = Interaction.InputBox("Please enter player username", "Void (PlayerTP)").ToLower();
 
                 foreach (var entity in Game.getPlayers().Where(entity => entity.username.ToLower().Contains(username)))
                 {

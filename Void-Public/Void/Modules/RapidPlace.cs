@@ -1,11 +1,11 @@
 ﻿#region
 
-using Trero.ClientBase;
-using Trero.Modules.vModuleExtra;
+using Void.ClientBase;
+using Void.Modules.vModuleExtra;
 
 #endregion
 
-namespace Trero.Modules
+namespace Void.Modules
 {
     internal class RapidPlace : Module
     {
