@@ -192,8 +192,8 @@ namespace Trero
 
             // Keymap.keyEvent += keyParse;
 
-            Console.WriteLine(@"--- Trero Terminal ---");
-            Console.WriteLine(@"Welcome to the trero terminal");
+            Console.WriteLine(@"---| Void |---");
+            Console.WriteLine(@"Welcome to the Void");
             Console.WriteLine(@"");
 
             mainThread += moduleTick;
