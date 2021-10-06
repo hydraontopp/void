@@ -1,4 +1,4 @@
-﻿namespace Trero.ClientBase.VersionBase // Just about finished this part tbh
+﻿namespace Void.ClientBase.VersionBase // Just about finished this part tbh
 {
     internal class VersionClass // versions
     {

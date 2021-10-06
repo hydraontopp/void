@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 
 #endregion
 
-namespace Trero.ClientBase.KeyBase
+namespace Void.ClientBase.KeyBase
 {
     public class Mouse
     {

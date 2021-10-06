@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Trero.ClientBase.UIBase.TreroUILibrary
+namespace Void.ClientBase.UIBase.VoidUILibrary
 {
     class RenderDevice
     {

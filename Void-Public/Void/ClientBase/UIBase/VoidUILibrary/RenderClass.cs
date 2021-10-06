@@ -7,7 +7,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Trero.ClientBase.UIBase.TreroUILibrary
+namespace Void.ClientBase.UIBase.VoidUILibrary
 {
     class RenderClass
     {

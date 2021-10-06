@@ -8,7 +8,7 @@ using System.Threading;
 
 #endregion
 
-namespace Trero.ClientBase.PipeBase
+namespace Void.ClientBase.PipeBase
 {
     class PipeIO // ill setup later ignore lol
     {

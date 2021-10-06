@@ -2,11 +2,11 @@
 
 using System;
 using System.Linq;
-using Trero.ClientBase.VersionBase;
+using Void.ClientBase.VersionBase;
 
 #endregion
 
-namespace Trero.ClientBase.EntityBase
+namespace Void.ClientBase.EntityBase
 {
     internal class Actor
     {

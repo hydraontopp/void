@@ -7,15 +7,15 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Threading;
 using System.Windows.Forms;
-using Trero.ClientBase.KeyBase;
-using Trero.ClientBase.UIBase.TreroUILibrary;
-using Trero.ClientBase.VersionBase;
-using Trero.Modules;
-using Trero.Modules.vModuleExtra;
+using Void.ClientBase.KeyBase;
+using Void.ClientBase.UIBase.TreroUILibrary;
+using Void.ClientBase.VersionBase;
+using Void.Modules;
+using Void.Modules.vModuleExtra;
 
 #endregion
 
-namespace Trero.ClientBase.UIBase
+namespace Void.ClientBase.UIBase
 {
     public partial class Overlay : Form
     {
@@ -188,7 +188,7 @@ namespace Trero.ClientBase.UIBase
             
             // e.Graphics.FillRectangle(new SolidBrush(Color.FromArgb(255, 22, 22, 44)), new Rectangle(0, Size.Height - 2 - (6 * (int)df.Size + 4 * DrawingUtils.screenSize), (int)e.Graphics.MeasureString("ClientInstance: " + Game.clientInstance.ToString("X"), df).Width + 4, Size.Height - (4 * (int)df.Size + 4 * DrawingUtils.screenSize)));
 
-            //e.Graphics.DrawString("Trero Template", df, Brushes.Orange, new PointF(0, 0));
+            //e.Graphics.DrawString("Void Template", df, Brushes.Orange, new PointF(0, 0));
 
             if (Game.screenData.StartsWith("start_screen"))
             {

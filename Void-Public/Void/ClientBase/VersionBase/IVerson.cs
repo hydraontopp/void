@@ -4,7 +4,7 @@ using System.Linq;
 
 #endregion
 
-namespace Trero.ClientBase.VersionBase
+namespace Void.ClientBase.VersionBase
 {
     internal class IVersion // version template
     {

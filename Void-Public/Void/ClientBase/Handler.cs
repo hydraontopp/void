@@ -9,7 +9,7 @@ using System.Windows.Forms;
 
 #endregion
 
-namespace Trero.ClientBase
+namespace Void.ClientBase
 {
     public class HexHandler
     {

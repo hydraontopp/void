@@ -10,7 +10,7 @@ using System.Text;
 
 #endregion
 
-namespace Trero.ClientBase
+namespace Void.ClientBase
 {
     public class MCM
     {

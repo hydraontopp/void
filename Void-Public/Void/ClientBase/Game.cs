@@ -3,13 +3,13 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using Trero.ClientBase.EntityBase;
-using Trero.ClientBase.KeyBase;
-using Trero.ClientBase.VersionBase;
+using Void.ClientBase.EntityBase;
+using Void.ClientBase.KeyBase;
+using Void.ClientBase.VersionBase;
 
 #endregion
 
-namespace Trero.ClientBase
+namespace Void.ClientBase
 {
     internal class Game
     {
@@ -673,7 +673,7 @@ namespace Trero.ClientBase
             public static bool antibot = true;
             public static bool[] antibotStates = new bool[] { true, false };
             public static bool nofriends = false;
-            public static List<string> friends = new List<string> { "FootlongTrero" };
+            public static List<string> friends = new List<string> { "FootlongVoid" };
         }
 
         // Normal - true, false

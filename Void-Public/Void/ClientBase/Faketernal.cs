@@ -4,13 +4,13 @@ using System;
 using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;
-using Trero.ClientBase.FaketernalBase;
-using Trero.ClientBase.KeyBase;
-using Trero.ClientBase.VersionBase;
+using Void.ClientBase.FaketernalBase;
+using Void.ClientBase.KeyBase;
+using Void.ClientBase.VersionBase;
 
 #endregion
 
-namespace Trero.ClientBase
+namespace Void.ClientBase
 {
     internal class Faketernal
     {

@@ -1,4 +1,4 @@
-﻿namespace Trero.ClientBase.FaketernalBase
+﻿namespace Void.ClientBase.FaketernalBase
 {
     internal class MessageObj
     {
