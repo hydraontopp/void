@@ -8,9 +8,9 @@ using Void.Modules.vModuleExtra;
 
 namespace Void.Modules
 {
-    internal class Killaura : Module
+    internal class Crystalaura : Module
     {
-        public Killaura() : base("Crystalaura", (char)0x07, "Combat")
+        public Crystalaura() : base("Crystalaura", (char)0x07, "Combat")
         {
             addBypass(new BypassBox(new string[] { "Fast place: False", "Fast place: True" }));
         }
