@@ -1,13 +1,13 @@
 ﻿#region
 
 using System.Collections.Generic;
-using Trero.ClientBase.KeyBase;
-using Trero.ClientBase.UIBase;
-using Trero.Modules.vModuleExtra;
+using Void.ClientBase.KeyBase;
+using Void.ClientBase.UIBase;
+using Void.Modules.vModuleExtra;
 
 #endregion
 
-namespace Trero.Modules
+namespace Void.Modules
 {
     internal class Module
     {

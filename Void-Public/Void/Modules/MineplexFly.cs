@@ -1,12 +1,12 @@
 ﻿#region
 
 using System;
-using Trero.ClientBase;
-using Trero.ClientBase.VersionBase;
+using Void.ClientBase;
+using Void.ClientBase.VersionBase;
 
 #endregion
 
-namespace Trero.Modules
+namespace Void.Modules
 {
     internal class MineplexFly : Module
     {
