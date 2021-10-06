@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 #endregion
 
-namespace Trero.Modules
+namespace Void.Modules
 {
     internal class Welcome : Module // due to set person (superlupita#4062), (552396139232624640) you now have to include this extra annoying module!
     {
@@ -18,10 +18,10 @@ namespace Trero.Modules
         {
             Console.Clear();
             Console.WriteLine("--- Links ---\r\n" +
-                "Trero: \r\n" +
-                "discord.gg/wYRM2jwjE5\r\n" +
-                "Modding Communtiy: \r\n" +
-                "discord.gg/DJEVhaWEKz");
+                "Void: \r\n" +
+                "discord.gg/TWVMz53D5H\r\n" +
+                "Hydra Hub: \r\n" +
+                "discord.gg/jHYB2GZQpg");
         }
     }
 }
