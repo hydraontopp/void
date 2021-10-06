@@ -1,18 +1,18 @@
 ﻿#region
 
-using Trero.ClientBase;
-using Trero.ClientBase.VersionBase;
-using Trero.Modules.vModuleExtra;
+using Void.ClientBase;
+using Void.ClientBase.VersionBase;
+using Void.Modules.vModuleExtra;
 
 #endregion
 
-namespace Trero.Modules
+namespace Void.Modules
 {
     internal class Glide : Module
     {
         public Glide() : base("Glide", (char)0x07, "Player")
         {
-            addBypass(new BypassBox(new string[] { "Trero", "Horion", "None" }));
+            addBypass(new BypassBox(new string[] { "Void", "Horion", "None" }));
         } // Not defined
 
         public override void OnTick()
