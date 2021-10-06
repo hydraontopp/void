@@ -1,11 +1,11 @@
 ﻿#region
 
-using Trero.ClientBase;
-using Trero.ClientBase.KeyBase;
+using Void.ClientBase;
+using Void.ClientBase.KeyBase;
 
 #endregion
 
-namespace Trero.Modules
+namespace Void.Modules
 {
     internal class ClickTP : Module
     {

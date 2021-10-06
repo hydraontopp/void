@@ -1,4 +1,4 @@
-﻿namespace Trero.Modules.vModuleExtra
+﻿namespace Void.Modules.vModuleExtra
 {
     internal class BypassBox
     {

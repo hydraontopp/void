@@ -2,13 +2,13 @@
 
 using System;
 using System.Windows.Forms;
-using Trero.ClientBase;
-using Trero.ClientBase.KeyBase;
-using Trero.Modules.vModuleExtra;
+using Void.ClientBase;
+using Void.ClientBase.KeyBase;
+using Void.Modules.vModuleExtra;
 
 #endregion
 
-namespace Trero.Modules
+namespace Void.Modules
 {
     internal class AutoWalk : Module
     {
