@@ -1,4 +1,4 @@
-﻿namespace Trero.ClientBase.UIBase
+﻿Voidnamespace Trero.ClientBase.UIBase
 {
     public enum SWEH_dwFlags : uint
     {
