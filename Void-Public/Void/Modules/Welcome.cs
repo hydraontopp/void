@@ -20,7 +20,7 @@ namespace Void.Modules
             Console.WriteLine("--- Links ---\r\n" +
                 "Void Utility: \r\n" +
                 "discord.gg/TWVMz53D5H\r\n" +
-                "Hydra Hub: \r\n" +
+                "Hydra Hub | Clients: \r\n" +
                 "discord.gg/jHYB2GZQpg");
         }
     }
