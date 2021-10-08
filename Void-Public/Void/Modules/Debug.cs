@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 
 #endregion
 
-namespace Trero.Modules
+namespace Void.Modules
 {
     internal class Debug : Module
     {

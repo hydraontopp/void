@@ -4,7 +4,7 @@ using System.Diagnostics;
 
 #endregion
 
-namespace Trero.Modules
+namespace Void.Modules
 {
     internal class KillGame : Module
     {

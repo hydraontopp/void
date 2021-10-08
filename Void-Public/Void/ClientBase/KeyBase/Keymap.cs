@@ -9,7 +9,7 @@ using System.Windows.Forms;
 
 #endregion
 
-namespace Trero.ClientBase.KeyBase
+namespace Void.ClientBase.KeyBase
 {
     internal class Keymap
     {

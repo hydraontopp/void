@@ -9,16 +9,16 @@ using System.Runtime.InteropServices;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Trero.ClientBase;
-using Trero.ClientBase.KeyBase;
-using Trero.ClientBase.UIBase;
-using Trero.ClientBase.VersionBase;
-using Trero.Modules;
-using Debug = Trero.Modules.Debug;
+using Void.ClientBase;
+using Void.ClientBase.KeyBase;
+using Void.ClientBase.UIBase;
+using Void.ClientBase.VersionBase;
+using Void.Modules;
+using Debug = Void.Modules.Debug;
 
 #endregion
 
-namespace Trero
+namespace Void
 {
     internal static class Program
     {
@@ -52,7 +52,7 @@ namespace Trero
             // ReSharper disable once ObjectCreationAsStatement
             new Keymap();
 
-            Console.WriteLine("Trero v" + VersionClass.currentVersion.name);
+            Console.WriteLine("Void v" + VersionClass.currentVersion.name);
 
             new Thread(() => { Application.Run(new Overlay()); }).Start(); // UI Application
 
@@ -166,7 +166,7 @@ namespace Trero
             // Fix scaffold
             // Noknockback
 
-            // TreroInternal - Modules List
+            // VoidInternal - Modules List
             // 
 
             // TODO: Commands -- i think ill do all the commands in about aweek if i get a good idea on where to put them
