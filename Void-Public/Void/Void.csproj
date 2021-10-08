@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{5B148896-2BA5-44E6-B4B4-59C0C4409CAD}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Trero</RootNamespace>
-    <AssemblyName>TreroUtility</AssemblyName>
+    <RootNamespace>Void</RootNamespace>
+    <AssemblyName>VoidUtility</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -68,7 +68,7 @@
     <Prefer32Bit>true</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>TreroBackground.ico</ApplicationIcon>
+    <ApplicationIcon>VoidBackground.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Microsoft.VisualBasic" />
@@ -99,8 +99,8 @@
     <Compile Include="ClientBase\UIBase\Overlay.Designer.cs">
       <DependentUpon>Overlay.cs</DependentUpon>
     </Compile>
-    <Compile Include="ClientBase\UIBase\TreroUILibrary\DrawingUtils.cs" />
-    <Compile Include="ClientBase\UIBase\TreroUILibrary\RenderClass.cs" />
+    <Compile Include="ClientBase\UIBase\VoidUILibrary\DrawingUtils.cs" />
+    <Compile Include="ClientBase\UIBase\VoidUILibrary\RenderClass.cs" />
     <Compile Include="ClientBase\UIBase\WinHooks.cs" />
     <Compile Include="ClientBase\VersionBase\IVerson.cs" />
     <Compile Include="ClientBase\VersionBase\VersionClass.cs" />
@@ -199,7 +199,7 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="TreroBackground.ico" />
+    <Content Include="VoidBackground.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

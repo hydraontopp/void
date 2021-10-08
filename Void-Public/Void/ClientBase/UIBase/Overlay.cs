@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 using System.Threading;
 using System.Windows.Forms;
 using Void.ClientBase.KeyBase;
-using Void.ClientBase.UIBase.TreroUILibrary;
+using Void.ClientBase.UIBase.VoidUILibrary;
 using Void.ClientBase.VersionBase;
 using Void.Modules;
 using Void.Modules.vModuleExtra;
