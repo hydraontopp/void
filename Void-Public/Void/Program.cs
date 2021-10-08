@@ -101,6 +101,7 @@ namespace Void
             Modules.Add(new ClickTP());
             Modules.Add(new Glide());
             Modules.Add(new Killaura());
+            Modules.Add(new CrystalAura()); // uh might be broke lol
             Modules.Add(new AntiImmoblie());
             //Modules.Add(new Reach());
             Modules.Add(new Limiter()); // CPU saver
@@ -123,6 +124,7 @@ namespace Void
             Modules.Add(new RapidHit());
             Modules.Add(new RapidPlace());
             // Modules.Add(new HiveFly());
+            // Modules.Add(new HiveFly2());
             Modules.Add(new OGMFly());
             Modules.Add(new InPvPTower()); // Untested
             //Modules.Add(new Disabler());

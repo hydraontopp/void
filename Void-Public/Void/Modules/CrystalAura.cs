@@ -10,7 +10,7 @@ namespace Void.Modules
 {
     internal class Crystalaura : Module
     {
-        public Crystalaura() : base("Crystalaura", (char)0x07, "Combat")
+        public CrystalAura() : base("CrystalAura", (char)0x07, "Combat")
         {
             addBypass(new BypassBox(new string[] { "Fast place: False", "Fast place: True" }));
         }

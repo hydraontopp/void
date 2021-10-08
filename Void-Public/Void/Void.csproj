@@ -107,6 +107,7 @@
     <Compile Include="Modules\Disabler.cs" />
     <Compile Include="Modules\InPvPTower.cs" />
     <Compile Include="Modules\HiveFly.cs" />
+    <Compile Include="Modules\HiveFly2.cs" />
     <Compile Include="Modules\OGMFly.cs" />
     <Compile Include="Modules\RapidPlace.cs" />
     <Compile Include="Modules\RapidHit.cs" />
@@ -134,6 +135,7 @@
     <Compile Include="Modules\HighJump.cs" />
     <Compile Include="Modules\InventoryMove.cs" />
     <Compile Include="Modules\CreativeFly.cs" />
+    <Compile Include="Modules\CrystalAura" />
     <Compile Include="Modules\ClickTP.cs" />
     <Compile Include="Modules\NoSwing.cs" />
     <Compile Include="Modules\Jesus.cs" />
