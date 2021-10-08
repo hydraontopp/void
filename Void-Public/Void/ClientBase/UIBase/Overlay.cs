@@ -276,7 +276,7 @@ namespace Void.ClientBase.UIBase
 
                 switch (mod.category)
                 {
-                    case "Flys":
+                    case "Flies":
                         panel7.Controls.Add(moduleButton);
                         break;
                     case "Visual":
