@@ -12,7 +12,7 @@ namespace Void.Modules
 
         public AboveAura() : base("AboveAura", (char)0x07, "Exploits")
         {
-        } // this module isn't exactly required as sexaura has options to become this
+        } // this module isn't exactly required as sexaura has options to become this "lol" - pocket
 
 
         public override void OnTick()
