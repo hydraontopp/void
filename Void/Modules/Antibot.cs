@@ -15,7 +15,7 @@ namespace Void.Modules
         public override void OnEnable()
         {
             Game.CustomDefines.antibot = true;
-            Game.CustomDefines.antibotStates = new bool[] { true, false }; // default parser
+            Game.CustomDefines.antibotStates = new bool[] { true, false }; // default parser fixed
             base.OnEnable();
         }
 
