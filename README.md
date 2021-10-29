@@ -1,1 +1,1 @@
-External C# Utiliy Mod for Minecraft
+External C# Utility Mod for Minecraft
