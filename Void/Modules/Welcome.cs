@@ -19,7 +19,7 @@ namespace Void.Modules
             Console.Clear();
             Console.WriteLine("--- Links ---\r\n" +
                 "Void: \r\n" +
-                "discord.gg/wYRM2jwjE5\r\n");
+                "discord.gg/M3dDHAhagQ\r\n");
         }
     }
 }
