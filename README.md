@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <p>
-      <a href="https://voidutility.tk"><img src="https://github.com/hydra0nt0pp/void/blob/main/logo-banner.png" width="600" alt="Void Website" /></a>
+      <a href="https://sites.google.com/view/voidclient/home"><img src="https://github.com/hydra0nt0pp/void/blob/main/logo-banner.png" width="600" alt="Void Website" /></a>
     </p>
   <br />
   <p>
