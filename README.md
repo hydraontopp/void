@@ -3,7 +3,7 @@
     <p>
   <br />
     <p>
-      <a href="https://voidutility.download"><img src="https://raw.githubusercontent.com/void/main/logo.png" width="200" alt="void" /></a>
+      <a href="https://voidutility.tk"><img src="https://raw.githubusercontent.com/void/main/logo.png" width="200" alt="" /></a>
     </p>
   <br />
   <p>
