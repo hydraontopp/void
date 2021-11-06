@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <p>
-      <a href="https://voidutility.download"><img src="https://raw.githubusercontent.com/void/main/. <div align="center">
+      <a href="https://voidutility.download"><img src="https://raw.githubusercontent.com/void/main/DB37DBEA-1D0F-4F0E-A35C-F43F5400996A.png" <div align="center">
   <br />
     <p>
       <a href="https://horion.download"><img src="https://raw.githubusercontent.com/horionclient/Horion/master/.github/horion-banner.png" width="600" alt="Horion" /></a>
