@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <p>
-      <a href="https://horion.download"><img src="https://raw.githubusercontent.com/void/main/logo-banner.png" width="600" alt="Horion" /></a>
+      <a href="https://horion.download"><img src="https://raw.githubusercontent.com/void/master/logo-banner.png" width="600" alt="Horion" /></a>
     </p>
   <br />
   <p>
