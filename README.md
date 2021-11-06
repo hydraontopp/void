@@ -29,4 +29,4 @@ You are allowed to fork the project and distribute it, if you give credit. You m
 Not all source files are protected by this license - Some third party libraries (Chakra, DX11) may be under different copyright.
 
 ## Developers
-Credit To: voidedman, mittch-xd, hydra0nt0pp & 1eakpocket.
+Credit To: voidedman, mittch-xd, hydra0nt0pp & 1eakpocket. For the help of Void Client, also thanks to Lammy for base code.
