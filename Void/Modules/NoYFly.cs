@@ -26,7 +26,7 @@ namespace Void.Modules
             var cy = (Game.bodyRots.y + 89.9f) * ((float)Math.PI / 180F);
 
             if (Keymap.GetAsyncKeyState((char)Keys.W))
-                newVel.z = (float)Math.Sin(cy) * (8 / 9f); //Working Fly With No Height 
+                newVel.z = (float)Math.Sin(cy) * (8 / 9f); //Working Fly With No Height now bypasses hive & galaxite 
 
 
             if (Keymap.GetAsyncKeyState((char)Keys.W))
