@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <p>
-      <a href="https://astroontop.github.io/Astro-anticheat/"><img src="https://github.com/hydra0nt0pp/void/blob/main/logo-banner.png" width="600" alt="Void Website" /></a>
+      <a href="https://astroontop.github.io/Astro-anticheat/"><img src="https://github.com/AstroOnTop/Astro-anticheat/blob/gh-pages/assets/images/banner.png" width="600" alt="Void Website" /></a>
     </p>
   <br />
   <p>
